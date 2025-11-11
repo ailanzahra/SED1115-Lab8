@@ -1,0 +1,48 @@
+# Calibration Data for Test Jig X (Desired Angle, Actual Angle, Error) 
+# ERROR is calculated as: Actual Angle - Desired Angle
+
+# ==================================
+# SERVO A (SHOULDER) CALIBRATION DATA
+# ==================================
+Desired Angle: 0, Actual Angle: 6, Error: 6.0
+Desired Angle: 10, Actual Angle: 15, Error: 5.0
+Desired Angle: 20, Actual Angle: 24, Error: 4.0
+Desired Angle: 30, Actual Angle: 33, Error: 3.0
+Desired Angle: 40, Actual Angle: 42, Error: 2.0
+Desired Angle: 50, Actual Angle: 51, Error: 1.0
+Desired Angle: 60, Actual Angle: 60, Error: 0.0
+Desired Angle: 70, Actual Angle: 69, Error: -1.0
+Desired Angle: 80, Actual Angle: 78, Error: -2.0
+Desired Angle: 90, Actual Angle: 87, Error: -3.0
+Desired Angle: 100, Actual Angle: 96, Error: -4.0
+Desired Angle: 110, Actual Angle: 105, Error: -5.0
+Desired Angle: 120, Actual Angle: 114, Error: -6.0
+Desired Angle: 130, Actual Angle: 123, Error: -7.0
+Desired Angle: 140, Actual Angle: 132, Error: -8.0
+Desired Angle: 150, Actual Angle: 141, Error: -9.0
+Desired Angle: 160, Actual Angle: 150, Error: -10.0
+Desired Angle: 170, Actual Angle: 159, Error: -11.0
+Desired Angle: 180, Actual Angle: 168, Error: -12.0
+
+# =================================
+# SERVO B (ELBOW) CALIBRATION DATA
+# =================================
+Desired Angle: 0, Actual Angle: -2, Error: -2.0
+Desired Angle: 10, Actual Angle: 7, Error: -3.0
+Desired Angle: 20, Actual Angle: 16, Error: -4.0
+Desired Angle: 30, Actual Angle: 25, Error: -5.0
+Desired Angle: 40, Actual Angle: 34, Error: -6.0
+Desired Angle: 50, Actual Angle: 43, Error: -7.0
+Desired Angle: 60, Actual Angle: 52, Error: -8.0
+Desired Angle: 70, Actual Angle: 61, Error: -9.0
+Desired Angle: 80, Actual Angle: 70, Error: -10.0
+Desired Angle: 90, Actual Angle: 80, Error: -10.0
+Desired Angle: 100, Actual Angle: 90, Error: -10.0
+Desired Angle: 110, Actual Angle: 100, Error: -10.0
+Desired Angle: 120, Actual Angle: 110, Error: -10.0
+Desired Angle: 130, Actual Angle: 120, Error: -10.0
+Desired Angle: 140, Actual Angle: 130, Error: -10.0
+Desired Angle: 150, Actual Angle: 140, Error: -10.0
+Desired Angle: 160, Actual Angle: 150, Error: -10.0
+Desired Angle: 170, Actual Angle: 160, Error: -10.0
+Desired Angle: 180, Actual Angle: 170, Error: -10.0
